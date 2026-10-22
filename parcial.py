@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget
 from matplotlib.backends.backend_qtagg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
 
-print("INSPECCIÓN DE DATOS")
+print("DATOS")
 df = pd.read_csv('inventario.csv')
 
 print(df.head())
