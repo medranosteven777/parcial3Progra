@@ -1,0 +1,101 @@
+ID_Producto,Producto,Categoria,Precio,Stock,Sucursal
+1,Laptop,Computación,316.44,38,La Libertad
+2,Mouse,Computación,591.46,57,La Libertad
+3,Laptop,Computación,30.88,32,Sonsonate
+4,Teclado,Computación,117.54,80,La Libertad
+5,Teclado,Impresión,694.12,73,Sonsonate
+6,Laptop,Impresión,636.78,22,Sonsonate
+7,Monitor,Impresión,273.39,10,Santa Ana
+8,Teclado,Computación,211.98,77,La Libertad
+9,Impresora,Periféricos,637.26,87,San Miguel
+10,Monitor,Computación,752.3,46,La Libertad
+11,Monitor,Impresión,608.58,18,Santa Ana
+12,Mouse,Impresión,522.17,87,San Salvador
+13,Laptop,Periféricos,112.0,34,San Salvador
+14,Monitor,Computación,449.77,23,La Libertad
+15,Monitor,Impresión,371.81,20,San Miguel
+16,Monitor,Periféricos,151.7,51,San Salvador
+17,Mouse,Periféricos,65.58,42,Santa Ana
+18,Monitor,Impresión,196.26,75,La Libertad
+19,Impresora,Periféricos,388.63,40,San Miguel
+20,Laptop,Computación,523.63,55,San Miguel
+21,Monitor,Impresión,86.11,80,San Miguel
+22,Monitor,Periféricos,106.67,99,San Miguel
+23,Teclado,Computación,742.87,82,San Salvador
+24,Monitor,Computación,455.44,74,La Libertad
+25,Mouse,Periféricos,170.97,41,La Libertad
+26,Laptop,Computación,723.51,71,San Miguel
+27,Laptop,Impresión,769.69,19,La Libertad
+28,Mouse,Impresión,281.08,24,Santa Ana
+29,Laptop,Periféricos,55.48,29,San Miguel
+30,Monitor,Computación,448.61,21,San Salvador
+31,Impresora,Computación,765.22,79,San Salvador
+32,Monitor,Computación,796.63,12,San Salvador
+33,Mouse,Impresión,514.31,23,Sonsonate
+34,Monitor,Periféricos,616.62,58,Santa Ana
+35,Impresora,Computación,479.18,78,Sonsonate
+36,Laptop,Computación,127.0,50,Santa Ana
+37,Mouse,Computación,53.81,22,Sonsonate
+38,Monitor,Periféricos,246.31,60,San Miguel
+39,Mouse,Computación,335.58,99,San Salvador
+40,Teclado,Impresión,528.18,88,La Libertad
+41,Monitor,Periféricos,110.59,80,Santa Ana
+42,Teclado,Impresión,566.82,50,San Miguel
+43,Impresora,Computación,90.6,100,San Salvador
+44,Laptop,Periféricos,570.12,57,San Miguel
+45,Impresora,Periféricos,308.81,12,Sonsonate
+46,Teclado,Computación,454.5,86,La Libertad
+47,Laptop,Periféricos,634.37,82,La Libertad
+48,Laptop,Impresión,421.47,64,San Salvador
+49,Teclado,Impresión,463.86,99,San Salvador
+50,Teclado,Computación,135.0,50,Santa Ana
+51,Laptop,Computación,309.5,56,Sonsonate
+52,Laptop,Periféricos,38.29,67,San Salvador
+53,Mouse,Impresión,174.57,81,Santa Ana
+54,Teclado,Impresión,149.9,82,San Miguel
+55,Monitor,Periféricos,773.09,94,Sonsonate
+56,Impresora,Impresión,177.01,29,San Miguel
+57,Impresora,Periféricos,708.54,13,San Miguel
+58,Monitor,Computación,309.35,67,La Libertad
+59,Impresora,Periféricos,393.23,97,Santa Ana
+60,Mouse,Periféricos,60.77,22,La Libertad
+61,Monitor,Periféricos,544.3,60,San Salvador
+62,Monitor,Impresión,494.78,75,La Libertad
+63,Impresora,Computación,625.82,31,Sonsonate
+64,Laptop,Periféricos,138.09,59,Santa Ana
+65,Monitor,Impresión,359.14,58,San Miguel
+66,Impresora,Computación,33.68,89,Santa Ana
+67,Monitor,Periféricos,90.91,59,San Miguel
+68,Monitor,Computación,789.76,17,San Miguel
+69,Impresora,Periféricos,624.11,16,La Libertad
+70,Mouse,Computación,450.99,70,Sonsonate
+71,Monitor,Impresión,535.71,30,San Salvador
+72,Impresora,Periféricos,59.66,23,La Libertad
+73,Impresora,Computación,286.35,48,La Libertad
+74,Teclado,Periféricos,770.32,67,Sonsonate
+75,Mouse,Periféricos,697.96,62,San Miguel
+76,Impresora,Periféricos,547.28,46,San Salvador
+77,Teclado,Computación,517.53,68,San Miguel
+78,Laptop,Computación,773.68,28,Sonsonate
+79,Teclado,Periféricos,642.15,10,San Miguel
+80,Mouse,Impresión,551.15,34,San Miguel
+81,Laptop,Impresión,92.28,34,Santa Ana
+82,Mouse,Periféricos,513.7,80,Santa Ana
+83,Impresora,Periféricos,703.42,20,San Miguel
+84,Monitor,Periféricos,547.88,93,La Libertad
+85,Mouse,Computación,437.83,10,San Miguel
+86,Teclado,Periféricos,796.35,69,San Salvador
+87,Mouse,Impresión,243.49,92,Sonsonate
+88,Impresora,Periféricos,464.08,62,San Salvador
+89,Teclado,Periféricos,287.93,44,San Salvador
+90,Monitor,Periféricos,103.75,85,La Libertad
+91,Mouse,Periféricos,654.1,10,Sonsonate
+92,Impresora,Computación,718.2,38,San Salvador
+93,Mouse,Computación,463.96,87,San Salvador
+94,Monitor,Periféricos,313.55,24,San Salvador
+95,Mouse,Periféricos,218.02,79,La Libertad
+96,Teclado,Periféricos,633.45,33,San Miguel
+97,Teclado,Computación,263.82,90,San Salvador
+98,Laptop,Impresión,288.96,51,San Miguel
+99,Teclado,Periféricos,62.38,86,San Miguel
+100,Laptop,Periféricos,564.03,38,La Libertad
